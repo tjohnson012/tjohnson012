@@ -1,23 +1,16 @@
-- # Hola, Mundo! 👋
-
-I'm Tyler Johnson, a student at the University of Cincinnati, double majoring in Computer Science and Spanish. 😁
-
-## About Me
-My goal is to create tech that is accessible for all. Their are many things that we love that many people don't have the ability to use due to their backgrounds, especially disablities. I want to make sure that all technology I create can be accessed by those who need it.
-
-
-## Get in Touch
-Let's connect! Feel free to reach out to me via:
-
-- 📧 Email: tylerjalonjohnson1@gmail.com
-- 💬 LinkedIn: https://linkedin.com/jalonjohnson21
-
-## Fun Facts
-Here are a few fun facts about me:
-
-1. Fact 1. I practice Capoeira, a brazillian form of martial arts mixed with dance.🥊🕺
-2. Fact 2. I am a collector of archival fashion.👕
-3. Fact 3. Favorite anime for sure is Jujutsu Kaisen, but My Hero Academia is getting up there.📺
-
-## Favorite Quote
-"Put the work in so your future self loves you rather than resents you." - My Grandma 💖
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
