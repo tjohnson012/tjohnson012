@@ -1,4 +1,4 @@
-## I'm Tyler Jalon Johnson, a Computer Science amd Math Double Major at the University of Cincinnati College of Engineering & Applied Sciences.
+## I'm Tyler Jalon Johnson, a Computer Science and Math Double Major at the University of Cincinnati College of Engineering & Applied Sciences.
 
 ### Technologies I know/use
 
